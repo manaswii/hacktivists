@@ -2839,7 +2839,7 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #ec8d81e0;
+				background-color: #3939ff48;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
@@ -2907,6 +2907,7 @@ input, select, textarea {
 		margin: 0 0 2em 0;
 		padding-left: 3.25em;
 		position: relative;
+		text-align: center;
 	}
 
 		.contact-method .icon {
